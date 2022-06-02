@@ -23,7 +23,7 @@ namespace Employee
         }
         public void display()
         {
-            Console.WriteLine(_name + " of age " +_age);
+            Console.WriteLine(_name + " earns " +_salary);
         }
 
     }
