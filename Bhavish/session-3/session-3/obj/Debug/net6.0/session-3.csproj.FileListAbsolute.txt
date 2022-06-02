@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\session-3\session-3\bin\Debug\net6.0\session-3.exe
+C:\Users\ASUS\source\repos\session-3\session-3\bin\Debug\net6.0\session-3.deps.json
+C:\Users\ASUS\source\repos\session-3\session-3\bin\Debug\net6.0\session-3.runtimeconfig.json
+C:\Users\ASUS\source\repos\session-3\session-3\bin\Debug\net6.0\session-3.dll
+C:\Users\ASUS\source\repos\session-3\session-3\bin\Debug\net6.0\session-3.pdb
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.dll
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\refint\session-3.dll
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.pdb
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\session-3.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\session-3\session-3\obj\Debug\net6.0\ref\session-3.dll
