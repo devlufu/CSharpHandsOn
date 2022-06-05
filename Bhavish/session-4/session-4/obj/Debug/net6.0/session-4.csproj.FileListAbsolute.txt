@@ -1,0 +1,15 @@
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.csproj.AssemblyReference.cache
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.AssemblyInfoInputs.cache
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.AssemblyInfo.cs
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.csproj.CoreCompileInputs.cache
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\bin\Debug\net6.0\session-4.exe
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\bin\Debug\net6.0\session-4.deps.json
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\bin\Debug\net6.0\session-4.runtimeconfig.json
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\bin\Debug\net6.0\session-4.dll
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\bin\Debug\net6.0\session-4.pdb
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.dll
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\refint\session-4.dll
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.pdb
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\session-4.genruntimeconfig.cache
+F:\Skill-house\Assignments\CSharpHandsOn\Bhavish\session-4\session-4\obj\Debug\net6.0\ref\session-4.dll
